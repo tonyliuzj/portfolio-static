@@ -8,7 +8,8 @@
       "badges": [
         { "text": "Guides", "color": "blue" },
         { "text": "Self-Hosting", "color": "blue" },
-        { "text": "Tutorials", "color": "blue" }
+        { "text": "Tutorials", "color": "blue" },
+        { "text": "Blog", "color": "white" }
       ]
     }
   ],

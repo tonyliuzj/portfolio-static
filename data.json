@@ -1,4 +1,17 @@
 {
+  "websites": [
+    {
+      "id": 1,
+      "title": "Self-Host Guides",
+      "url": "https://selfhostguides.com",
+      "description": "A comprehensive collection of guides and tutorials for self-hosting applications and services.",
+      "badges": [
+        { "text": "Guides", "color": "blue" },
+        { "text": "Self-Hosting", "color": "blue" },
+        { "text": "Tutorials", "color": "blue" }
+      ]
+    }
+  ],
   "projects": [
     {
       "id": 1,

@@ -1,1 +1,70 @@
-
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Shrinx",
+      "url": "https://shortenno.de",
+      "description": "Shrinx is a modern, minimalistic URL shortener that transforms long links into concise, trackable URLs. Fast, secure, and easy to integrate with a RESTful API.",
+      "badges": [
+        { "text": "Next.js", "color": "indigo" },
+        { "text": "API", "color": "indigo" },
+        { "text": "Secure", "color": "indigo" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mailsy",
+      "url": "https://emailno.de",
+      "description": "A simple, modern disposable email web app built with Next.js, shadcn/ui, and SQLite.",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" },
+        { "text": "shadcn/ui", "color": "emerald" },
+        { "text": "SQLite", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "KumaView",
+      "url": "https://statusno.de",
+      "description": "A modern frontend dashboard for monitoring multiple Uptime Kuma instances, built with Next.js, shadcn/ui, and SQLite.",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" },
+        { "text": "shadcn/ui", "color": "emerald" },
+        { "text": "SQLite", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "PocketView",
+      "url": "https://monitorno.de",
+      "description": "A modern, lightweight web interface for monitoring system metrics and performance. Built with Next.js and designed to work seamlessly with PocketBase (Beszel).",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" },
+        { "text": "shadcn/ui", "color": "emerald" },
+        { "text": "SQLite", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Librix",
+      "url": "https://fileno.de",
+      "description": "A front-end NEXT.JS application for HTTP/WebDAV–style servers.",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" },
+        { "text": "shadcn/ui", "color": "emerald" },
+        { "text": "SQLite", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Arkiv",
+      "url": "https://github.com/tonyliuzj/arkiv",
+      "description": "A full-stack file library system for managing, storing, and accessing files with user authentication.",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" },
+        { "text": "shadcn/ui", "color": "emerald" },
+        { "text": "SQLite", "color": "emerald" }
+      ]
+    }
+  ]
+}

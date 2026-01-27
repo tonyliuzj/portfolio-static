@@ -79,6 +79,24 @@
         { "text": "shadcn/ui", "color": "emerald" },
         { "text": "SQLite", "color": "emerald" }
       ]
+    },
+    {
+      "id": 7,
+      "title": "rpc2api",
+      "url": "https://github.com/tonyliuzj/rpc2api",
+      "description": "A simple Node.js web service that continuously polls a Komari JSON-RPC2 API and exposes HTTP endpoints whose status codes reflect the health of monitored nodes.",
+      "badges": [
+        { "text": "Next.js", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "kuma2api",
+      "url": "https://github.com/tonyliuzj/kuma2api",
+      "description": "Simple Node.js server that exposes Uptime Kuma status as HTTP endpoints.",
+      "badges": [
+        { "text": "Node.js", "color": "emerald" }
+      ]
     }
   ]
 }

@@ -90,7 +90,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "kuma2api",
       "url": "https://github.com/tonyliuzj/kuma2api",
       "description": "Simple Node.js server that exposes Uptime Kuma status as HTTP endpoints.",

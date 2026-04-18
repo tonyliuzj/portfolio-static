@@ -16,6 +16,17 @@
   "projects": [
     {
       "id": 1,
+      "title": "Komari Next",
+      "url": "https://probes.uk",
+      "description": "Komari-Next is a modern frontend for the Komari monitoring project. It is built with Next.js, TypeScript, Tailwind CSS and Shadcn UI and packaged as a static site that can be used as a Komari theme.",
+      "badges": [
+        { "text": "Next.js", "color": "indigo" },
+        { "text": "API", "color": "indigo" },
+        { "text": "shadcn/ui", "color": "emerald" }
+      ]
+    },
+    {
+      "id": 2,
       "title": "Shrinx",
       "url": "https://shortenno.de",
       "description": "Shrinx is a modern, minimalistic URL shortener that transforms long links into concise, trackable URLs. Fast, secure, and easy to integrate with a RESTful API.",
@@ -26,7 +37,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Mailsy",
       "url": "https://emailno.de",
       "description": "A simple, modern disposable email web app built with Next.js, shadcn/ui, and SQLite.",
@@ -37,7 +48,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "KumaView",
       "url": "https://statusno.de",
       "description": "A modern frontend dashboard for monitoring multiple Uptime Kuma instances, built with Next.js, shadcn/ui, and SQLite.",
@@ -48,7 +59,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "PocketView",
       "url": "https://monitorno.de",
       "description": "A modern, lightweight web interface for monitoring system metrics and performance. Built with Next.js and designed to work seamlessly with PocketBase (Beszel).",
@@ -59,7 +70,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Librix",
       "url": "https://fileno.de",
       "description": "A front-end NEXT.JS application for HTTP/WebDAV–style servers.",
@@ -70,7 +81,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Arkiv",
       "url": "https://github.com/tonyliuzj/arkiv",
       "description": "A full-stack file library system for managing, storing, and accessing files with user authentication.",
@@ -81,7 +92,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "rpc2api",
       "url": "https://github.com/tonyliuzj/rpc2api",
       "description": "A simple Node.js web service that continuously polls a Komari JSON-RPC2 API and exposes HTTP endpoints whose status codes reflect the health of monitored nodes.",
@@ -90,7 +101,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "kuma2api",
       "url": "https://github.com/tonyliuzj/kuma2api",
       "description": "Simple Node.js server that exposes Uptime Kuma status as HTTP endpoints.",

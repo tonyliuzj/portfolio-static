@@ -105,6 +105,8 @@
     { "label": "TonyLiu.uk", "url": "https://tonyliu.uk" },
     { "label": "LiuZJ.net", "url": "https://liuzj.net" },
     { "label": "Liu.my.id", "url": "https://liu.my.id" },
-    { "label": "Tony.Liu.my.id", "url": "https://tony.liu.my.id" }
+    { "label": "Tony.Liu.my.id", "url": "https://tony.liu.my.id" },
+    { "label": "LiuZJ.duckdns.org", "url": "https://liuzj.duckdns.org" },
+    { "label": "TonyLiuZJ.duckdns.org", "url": "https://tonyliuzj.duckdns.org" }
   ]
 }

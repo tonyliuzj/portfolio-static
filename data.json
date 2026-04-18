@@ -27,9 +27,9 @@
     },
     {
       "id": 2,
-      "title": "Shrinx",
-      "url": "https://shortenno.de",
-      "description": "Shrinx is a modern, minimalistic URL shortener that transforms long links into concise, trackable URLs. Fast, secure, and easy to integrate with a RESTful API.",
+      "title": "Link Guide",
+      "url": "https://linkgui.de",
+      "description": "Link Guide is a modern, minimalistic URL shortener that transforms long links into concise, trackable URLs.",
       "badges": [
         { "text": "Next.js", "color": "indigo" },
         { "text": "API", "color": "indigo" },

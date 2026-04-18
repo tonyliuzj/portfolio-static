@@ -108,6 +108,42 @@
       "badges": [
         { "text": "Node.js", "color": "emerald" }
       ]
+    },
+    {
+      "id": 10,
+      "title": "da2cf",
+      "url": "https://github.com/tonyliuzj/da2cf",
+      "description": "Web app to sync DNS records from DirectAdmin (source of truth) to Cloudflare (destination).",
+      "badges": [
+        { "text": "Python", "color": "yellow" }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "OneClick-Root",
+      "url": "https://github.com/tonyliuzj/oneclick-root",
+      "description": "A one click root script that enables ssh and set a password. Works on OCI as well.",
+      "badges": [
+        { "text": "Bash Script", "color": "gray" }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "scan4domain",
+      "url": "https://github.com/tonyliuzj/scan4domain",
+      "description": "A Python tool for generating domain combinations and checking domain registration status.",
+      "badges": [
+        { "text": "Python", "color": "yellow" }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "ftp2s3",
+      "url": "https://github.com/tonyliuzj/ftp2s3",
+      "description": "ftp2s3 exposes a simplified S3-style API on top of one or more FTP servers.",
+      "badges": [
+        { "text": "Python", "color": "yellow" }
+      ]
     }
   ],
   "domains": [

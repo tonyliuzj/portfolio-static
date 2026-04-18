@@ -144,6 +144,15 @@
         { "text": "Tutorials", "color": "blue" },
         { "text": "Blog", "color": "white" }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Name Server",
+      "url": "https://nameserver.sbs",
+      "description": "I use my own wonderful brilliant nameserver record to control DNS.",
+      "badges": [
+        { "text": "Cool Stuff", "color": "white" }
+      ]
     }
   ],
   "domains": [

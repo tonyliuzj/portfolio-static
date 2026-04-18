@@ -107,6 +107,10 @@
     { "label": "Liu.my.id", "url": "https://liu.my.id" },
     { "label": "Tony.Liu.my.id", "url": "https://tony.liu.my.id" },
     { "label": "LiuZJ.duckdns.org", "url": "https://liuzj.duckdns.org" },
-    { "label": "TonyLiuZJ.duckdns.org", "url": "https://tonyliuzj.duckdns.org" }
+    { "label": "TonyLiuZJ.duckdns.org", "url": "https://tonyliuzj.duckdns.org" },
+    { "label": "TonyLiu.ddnsfree.com", "url": "https://tonyliu.ddnsfree.com" },
+    { "label": "TonyLiu.ddnsgeek.com", "url": "https://tonyliu.ddnsgeek.com" },
+    { "label": "TonyLiu.freeddns.org", "url": "https://tonyliu.freeddns.org" },
+    { "label": "TonyLiu.loseyourip.com", "url": "https://tonyliu.loseyourip.com" },
   ]
 }

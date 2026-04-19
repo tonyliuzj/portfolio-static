@@ -163,6 +163,7 @@
     { "label": "Liu.my.id", "url": "https://liu.my.id" },
     { "label": "Tony.Liu.my.id", "url": "https://tony.liu.my.id" },
     { "label": "Liu.is-a-fullstack.dev", "url": "https://liu.is-a-fullstack.dev" },
+    { "label": "Liu.is-a-good.dev", "url": "https://liu.is-a-good.dev" },
     { "label": "Tony.LiuZJ.workers.dev", "url": "https://tony.liuzj.workers.dev" },
     { "label": "TonyLiuZJ.github.io", "url": "https://tonyliuzj.github.io" },
     { "label": "LiuZJ.duckdns.org", "url": "https://liuzj.duckdns.org" },

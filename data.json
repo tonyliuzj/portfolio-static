@@ -148,7 +148,7 @@
     {
       "id": 2,
       "title": "Name Server",
-      "url": "https://nameserver.sbs",
+      "url": "https://nameserver.ing",
       "description": "I use my own brilliant nameserver record to control DNS.",
       "badges": [
         { "text": "Cool Stuff", "color": "white" }

@@ -137,7 +137,7 @@
       "id": 1,
       "title": "Name Server",
       "url": "https://nameserver.ing",
-      "description": "I use my own brilliant nameserver record to control DNS.",
+      "description": "I use my own brilliant nameserver selfhosted using PowerDNS to control DNS.",
       "badges": [
         { "text": "Infrastructure", "color": "purple" }
       ]

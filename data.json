@@ -205,6 +205,10 @@
     { "label": "TonyLiu.ddns.net", "url": "https://tonyliu.ddns.net" },
     { "label": "Liu.qd.je", "url": "https://liu.qd.je" },
     { "label": "Tony.zone.id", "url": "https://tony.zone.id" },
-    { "label": "Tony.nett.to", "url": "https://tony.nett.to" }
+    { "label": "Tony.nett.to", "url": "https://tony.nett.to" },
+    { "label": "TonyLiu.indevs.in", "url": "https://tonyliu.indevs.in" },
+    { "label": "LiuZJ.indevs.in", "url": "https://liuzj.indevs.in" },
+    { "label": "Tony.sryze.cc", "url": "https://tony.sryze.cc" },
+    { "label": "Liu.ryzedns.org", "url": "https://liu.ryzedns.org" }
   ]
 }

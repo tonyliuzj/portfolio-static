@@ -228,6 +228,7 @@
     { "label": "Tony.int.yt", "url": "https://tony.int.yt" },
     { "label": "TonyLiu.int.yt", "url": "https://tonyliu.int.yt" },
     { "label": "LiuZJ.int.yt", "url": "https://liuzj.int.yt" },
-    { "label": "Liu.rweb.site", "url": "https://liu.rweb.site" }
+    { "label": "Liu.rweb.site", "url": "https://liu.rweb.site" },
+    { "label": "Liu.foo.ng", "url": "https://liu.foo.ng" }
   ]
 }

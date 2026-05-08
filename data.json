@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Link Guide",
-      "url": "https://linkgui.de",
+      "url": "https://github.com/tonyliuzj/link-guide",
       "description": "Link Guide is a modern, minimalistic URL shortener that transforms long links into concise, trackable URLs.",
       "badges": [
         { "text": "Next.js", "color": "indigo" },
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "title": "Mailsy",
-      "url": "https://emailno.de",
+      "url": "https://github.com/tonyliuzj/mailsy",
       "description": "A simple, modern disposable email web app built with Next.js, shadcn/ui, and SQLite.",
       "badges": [
         { "text": "Next.js", "color": "emerald" },
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "title": "KumaView",
-      "url": "https://statusno.de",
+      "url": "https://github.com/tonyliuzj/kumaview",
       "description": "A modern frontend dashboard for monitoring multiple Uptime Kuma instances, built with Next.js, shadcn/ui, and SQLite.",
       "badges": [
         { "text": "Next.js", "color": "emerald" },
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "title": "PocketView",
-      "url": "https://monitorno.de",
+      "url": "https://github.com/tonyliuzj/pocketview",
       "description": "A modern, lightweight web interface for monitoring system metrics and performance. Built with Next.js and designed to work seamlessly with PocketBase (Beszel).",
       "badges": [
         { "text": "Next.js", "color": "emerald" },
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "title": "Librix",
-      "url": "https://fileno.de",
+      "url": "https://github.com/tonyliuzj/librix",
       "description": "A front-end NEXT.JS application for HTTP/WebDAV–style servers.",
       "badges": [
         { "text": "Next.js", "color": "emerald" },

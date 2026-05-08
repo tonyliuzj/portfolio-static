@@ -139,7 +139,8 @@
       "url": "https://tony-liu.com",
       "description": "Hello",
       "badges": [
-        { "text": "Portfolio", "color": "blue" }
+        { "text": "Portfolio", "color": "blue" },
+        { "text": "Personal Site", "color": "indigo" }
       ]
     },
     {
@@ -149,6 +150,7 @@
       "description": "Fund raising for Gogar Primary School in Kenya, with a trip for volunteering work.",
       "badges": [
         { "text": "Charity", "color": "green" },
+        { "text": "Fundraising", "color": "emerald" },
         { "text": "Volunteering", "color": "blue" }
       ]
     },
@@ -158,7 +160,9 @@
       "url": "https://nameserver.ing",
       "description": "I use my own brilliant nameserver selfhosted using PowerDNS to control DNS.",
       "badges": [
-        { "text": "Infrastructure", "color": "purple" }
+        { "text": "DNS", "color": "purple" },
+        { "text": "PowerDNS", "color": "indigo" },
+        { "text": "Self-Hosted", "color": "blue" }
       ]
     },
     {
@@ -167,7 +171,8 @@
       "url": "https://hostname.ee",
       "description": "For host names",
       "badges": [
-        { "text": "Infrastructure", "color": "purple" }
+        { "text": "Hostnames", "color": "purple" },
+        { "text": "Domains", "color": "blue" }
       ]
     },
     {
@@ -188,7 +193,9 @@
       "url": "https://cloudram.download",
       "description": "Free service of cloud ram for download",
       "badges": [
-        { "text": "Service", "color": "green" }
+        { "text": "Service", "color": "green" },
+        { "text": "Download", "color": "blue" },
+        { "text": "Free", "color": "emerald" }
       ]
     },
     {
@@ -197,7 +204,8 @@
       "url": "https://chicken.ist",
       "description": "A Chickenist is someone who worships chickens and believes the universe is an egg. they also do not eat chicken but love to eat egg",
       "badges": [
-        { "text": "Cool Stuff", "color": "white" }
+        { "text": "Fun", "color": "white" },
+        { "text": "Novelty", "color": "yellow" }
       ]
     },
     {
@@ -206,7 +214,8 @@
       "url": "https://archivemirror.org",
       "description": "A simple mirroring site.",
       "badges": [
-        { "text": "Mirror", "color": "blue" }
+        { "text": "Archive", "color": "blue" },
+        { "text": "Mirror", "color": "indigo" }
       ]
     },
     {
@@ -215,7 +224,9 @@
       "url": "https://parrots.click",
       "description": "Click to go to the party parrots",
       "badges": [
-        { "text": "Cool Stuff", "color": "white" }
+        { "text": "Fun", "color": "white" },
+        { "text": "Interactive", "color": "green" },
+        { "text": "Novelty", "color": "yellow" }
       ]
     }
   ],

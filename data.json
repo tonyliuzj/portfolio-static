@@ -135,6 +135,25 @@
   "websites": [
     {
       "id": 1,
+      "title": "Personal Portfolio",
+      "url": "https://tony-liu.com",
+      "description": "Hello",
+      "badges": [
+        { "text": "Portfolio", "color": "blue" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Charity at Gogar Primary School, Kenya",
+      "url": "https://fundgogar.com",
+      "description": "Fund raising for Gogar Primary School in Kenya, with a trip for volunteering work.",
+      "badges": [
+        { "text": "Charity", "color": "green" },
+        { "text": "Volunteering", "color": "blue" }
+      ]
+    },
+    {
+      "id": 3,
       "title": "Name Server",
       "url": "https://nameserver.ing",
       "description": "I use my own brilliant nameserver selfhosted using PowerDNS to control DNS.",
@@ -143,7 +162,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Host Name",
       "url": "https://hostname.ee",
       "description": "For host names",
@@ -152,7 +171,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Self-Host Guides",
       "url": "https://selfhostguides.com",
       "description": "A comprehensive collection of guides and tutorials for self-hosting applications and services.",
@@ -164,7 +183,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "CloudRam Service",
       "url": "https://cloudram.download",
       "description": "Free service of cloud ram for download",
@@ -173,10 +192,28 @@
       ]
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Chickenist",
       "url": "https://chicken.ist",
       "description": "A Chickenist is someone who worships chickens and believes the universe is an egg. they also do not eat chicken but love to eat egg",
+      "badges": [
+        { "text": "Cool Stuff", "color": "white" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Archive Mirror",
+      "url": "https://archivemirror.org",
+      "description": "A simple mirroring site.",
+      "badges": [
+        { "text": "Mirror", "color": "blue" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Party Parrots",
+      "url": "https://parrots.click",
+      "description": "Click to go to the party parrots",
       "badges": [
         { "text": "Cool Stuff", "color": "white" }
       ]

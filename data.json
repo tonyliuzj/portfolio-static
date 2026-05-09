@@ -278,6 +278,9 @@
     { "label": "LiuZJ.int.yt", "url": "https://liuzj.int.yt", "type": "alias" },
     { "label": "Liu.rweb.site", "url": "https://liu.rweb.site", "type": "alias" },
     { "label": "Liu.foo.ng", "url": "https://liu.foo.ng", "type": "alias" },
-    { "label": "Liu.js.org", "url": "https://liu.js.org", "type": "alias" }
+    { "label": "Liu.js.org", "url": "https://liu.js.org", "type": "alias" },
+    { "label": "Liu.2bd.net", "url": "https://liu.2bd.net", "type": "alias" },
+    { "label": "Liu.jo3.org", "url": "https://liu.jo3.org", "type": "alias" },
+    { "label": "Liu.work.gd", "url": "https://liu.work.gd", "type": "alias" }
   ]
 }

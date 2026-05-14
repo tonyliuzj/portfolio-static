@@ -244,6 +244,7 @@
     { "label": "Liu.is-local.org", "url": "https://liu.is-local.org", "type": "alias" },
     { "label": "Liu.is-not-a.dev", "url": "https://liu.is-not-a.dev", "type": "alias" },
     { "label": "Liu.is-a-good.dev", "url": "https://liu.is-a-good.dev", "type": "alias" },
+    { "label": "Liu.localplayer.dev", "url": "https://liu.localplayer.dev", "type": "alias" },
     { "label": "Tony.LiuZJ.workers.dev", "url": "https://tony.liuzj.workers.dev", "type": "alias" },
     { "label": "TonyLiuZJ.github.io", "url": "https://tonyliuzj.github.io", "type": "alias" },
     { "label": "LiuZJ.duckdns.org", "url": "https://liuzj.duckdns.org", "type": "alias" },
